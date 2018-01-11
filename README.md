@@ -42,7 +42,7 @@ Download the package either through git,
 git clone https://github.com/fg8/UQ.git
 ```
 or download it directly from
-[GitHub](https://github.com/hajianOne/UQ.git)
+[GitHub](https://github.com/fg8/UQ.git)
 and decompress it. Go into the package directory. 
 You should see the following folder structure:
 ```
