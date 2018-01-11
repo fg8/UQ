@@ -39,7 +39,7 @@ For more information see [References](#references).
 
 Download the package either through git,
 ```sh
-git clone https://github.com/hajianOne/UQ.git
+git clone https://github.com/fg8/UQ.git
 ```
 or download it directly from
 [GitHub](https://github.com/hajianOne/UQ.git)
